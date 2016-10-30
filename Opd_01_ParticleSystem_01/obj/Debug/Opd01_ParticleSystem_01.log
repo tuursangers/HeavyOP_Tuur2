@@ -1,0 +1,9 @@
+﻿  Sphere.cpp
+  main.cpp
+  ofApp.cpp
+Sphere.cpp(1): error C2653: 'Sphere': is not a class or namespace name
+Sphere.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Sphere.cpp(3): error C2065: 'width': undeclared identifier
+Sphere.cpp(4): error C2065: 'height': undeclared identifier
+Sphere.cpp(5): warning C4508: 'Sphere': function should return a value; 'void' return type assumed
+Sphere.cpp(7): error C2653: 'Sphere': is not a class or namespace name
